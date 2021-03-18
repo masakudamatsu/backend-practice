@@ -20,6 +20,8 @@ coverage/
 # files related to the project (Mood board etc.)
 resources/
 
-# Uncomment once cloned
-## template scripts
-#template*.js
+# template scripts
+template*.js
+
+# server directory
+/server/node_modules
